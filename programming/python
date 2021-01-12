@@ -1,3 +1,4 @@
+# this was an old file 
 run = True
 def Go():
     IP = input(" export somthing! :")
